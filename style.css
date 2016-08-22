@@ -1,3 +1,15 @@
+/* General default fonts */
+
+@font-face {
+   font-family: monospace;
+   src: local('Menlo');
+}
+
+@font-face {
+   font-family: serif;
+   src: local('Georgia');
+}
+
 /* reddit */
 
 /* no grippy */
