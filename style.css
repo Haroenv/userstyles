@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: monospace;
-  src: local('Menlo');
+  src: local('Fira Code'), local('Menlo'), monospace;
 }
 
 @font-face {
