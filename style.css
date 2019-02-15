@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: monospace;
-  src: local('Fira Code'), local('Menlo'), monospace;
+  src: local('SF Mono'), local('Menlo'), monospace;
 }
 
 @font-face {
@@ -27,9 +27,6 @@ table.diff-table,
   tab-size: 4 !important;
 }
 
-/* reddit */
-
-/* no grippy */
-.listing-chooser.initialized {
-  display: none;
+.gh-header-sticky, .gh-header-shadow {
+  display: none !important;
 }
