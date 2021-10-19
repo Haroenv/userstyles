@@ -30,3 +30,8 @@ table.diff-table,
 .gh-header-sticky, .gh-header-shadow {
   display: none !important;
 }
+
+/* twitter trending */
+[aria-label="Timeline: Trending now"] {
+  display: none;
+}
