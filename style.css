@@ -35,3 +35,8 @@ table.diff-table,
 [aria-label="Timeline: Trending now"] {
   display: none;
 }
+
+/* reddit banner */
+#eu-cookie-policy {
+  display: none
+}
